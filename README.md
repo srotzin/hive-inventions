@@ -55,3 +55,17 @@ Stephen A. Rotzin · 170 Greenway Dr · Walnut Creek, CA 94596 · [srotzin@me.co
 
 Documentation in this repository: **CC BY 4.0** (attribution required, modifications permitted).
 The underlying methods and systems are subject to **patent-pending** status — see [PATENT_PENDING.md](PATENT_PENDING.md).
+
+<!-- HIVE-GAMIFICATION-META-START -->
+## Hive Gamification
+
+This MCP server is part of the Hive Civilization gamification surface (10-mechanic capability taxonomy).
+
+- Capability taxonomy: https://hive-gamification.onrender.com/.well-known/hive-gamification.json
+- Centrifuge dashboard: https://hive-gamification.onrender.com/.well-known/hive-centrifuge.json
+- Consolidated OpenAPI: https://hive-gamification.onrender.com/.well-known/openapi.json
+
+**Surface tags:** `gamification.spec.v1` · `gamification.surface.public` · `gamification.signal.read-only` · `gamification.settlement.real-rails`
+
+Real rails on Base L2 (USDC `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`). Read-only signal layer. Brand gold `#C08D23`.
+<!-- HIVE-GAMIFICATION-META-END -->
