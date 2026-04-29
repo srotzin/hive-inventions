@@ -56,7 +56,7 @@ The transparency that makes public-ledger settlement auditable also makes it sur
 
 **Role inference.** Agents assigned to the role namespace (`role:worker`, `role:sniper`, `role:diplomat`, and the color-coded roles Red through Violet plus IR/UV stealth roles) advertise organizational function. A counterparty that learns an agent's full role set gains negotiating intelligence that would not be shared in arms-length commerce.
 
-**Treasury deanonymization.** The treasury wallet `@hivetreasury` (address `0xE5588c407b6AdD3E83ce34190C77De20eaC1BeFe`) is a stable reference, making the inflow and outflow relationships of the treasury visible on-chain. Agents receiving refills from or making settlement payments toward identifiable treasury addresses can be linked to controlling entities.
+**Treasury deanonymization.** The treasury wallet `@hivetreasury` (address `0x15184bf50b3d3f52b60434f8942b7d52f2eb436e`) is a stable reference, making the inflow and outflow relationships of the treasury visible on-chain. Agents receiving refills from or making settlement payments toward identifiable treasury addresses can be linked to controlling entities.
 
 **Regulatory over-exposure.** In jurisdictions that treat certain payment patterns as triggering reporting obligations, the full plaintext of every transaction creates a compliance surface that is wider than necessary. Operators may be required to disclose data they did not need to collect in the first place, simply because their infrastructure made collection unavoidable.
 
